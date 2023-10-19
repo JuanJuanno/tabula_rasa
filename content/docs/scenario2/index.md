@@ -28,3 +28,6 @@ Une fois l'incident passé le groupe peut poursuivre jusqu'à l'entrée du bunke
 1. Faction ou Communauté : L'abri est-il géré par une faction spécifique, une société secrète, ou une communauté de survivants indépendants ? Ont-ils des lois, des règles, ou des coutumes particulières ?
 1. Dangers potentiels : Quels dangers, internes ou externes, l'abri pourrait-il abriter ? Des tensions, des conflits, ou des menaces mutantes peuvent survenir.
 1. Recherches et Découvertes : Peuvent-ils trouver des informations historiques sur l'apocalypse, des réponses à leurs questions, ou des indices sur ce qui s'est passé après le bombardement nucléaire ?
+
+Le but sera de pouvoir voir les décès et les pertes que l'abris aura subi mais aussi les avancées technologiques présentes dans ce centre de recherche. 
+Les protagonistes vont devoir redoubler de vigilance et de logique pour obtenir tous les bénéfices liés à l'exploration de ce nouvel abris. 
