@@ -25,7 +25,6 @@ Un matin alors qu'il est à la salle de boxe, pour garder la forme, un type plei
 Il y rencontre une vieille peau, qui lui propose un boulot. Pour une somme d'argent équivalente à 15 fois ce qu'il touche avec ses petits boulots, elle veut qu'il joue à la baby-sitter. Visiblement, un jeune con s'amuse à énerver papa/maman en se fourrant dans les pires situations possible. Sa mère tremble pour lui et lui demande de le suivre, de le protéger au besoin et s'il le faut vraiment, de rentrer en contact avec lui de façon discrète. De se faire passer pour un ami, lui dit elle.
 Il rencontre Largo dans un bouge de poker clandestin, et le trouve bien marrant. Ce gamin se fout des conventions de son monde de bourges et cherche à s'amuser. Il décide donc de rester un peu sur se job, qui lui promet moyen financier, entrainement (il fait n'imp ce môme), et amusement.
 
-
 Quelques mois plus tard, il continue de toucher l'argent, mais reste surtout pour le gamin. Il a pas réussi à l'empêcher de perdre un doigt bêtement, mais il compte bien l'empêcher d'en perdre plus. A chaque paye qui tombe, il a un peu plus honte de ne pas lui avouer qu'il est payé par la reine mère, mais il a peur de briser sa relation avec ce qui ressemble le plus à un petit frère pour lui.
 
 Quand la guerre pointe le bout de son nez, on lui offre une place dans l'abri de Largo. Et il compte bien le protéger.
