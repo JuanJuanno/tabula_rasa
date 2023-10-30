@@ -10,23 +10,23 @@ Les gens sont devenus des cannibales et se servent d'armes de corps à corps pou
 C'est devenu une véritable boucherie pour tous les résidants. Les serviteurs sont aussi violents que les clients VIP. 
 
 * Vestiaire bagarre
-* Aile médicale ravagée
-
+* Aile médicale ravagée 
+    
     Lorsque nos protagonistes pénètrent dans l'aile médicale de l'abri, ils sont frappés par une scène de chaos et de destruction. L'état de l'aile médicale est épouvantable, montrant les signes clairs d'une mutinerie violente :
 
-    1. __Débris et Dommages Structuraux :__ Les murs sont marqués par des impacts de balles et des éclats d'explosion. Des étagères sont renversées, et certains murs présentent des fissures dues à des affrontements violents. Les câbles électriques pendent librement.
+    1. **Débris et Dommages Structuraux :** Les murs sont marqués par des impacts de balles et des éclats d'explosion. Des étagères sont renversées, et certains murs présentent des fissures dues à des affrontements violents. Les câbles électriques pendent librement.
 
-    2. __Équipement Médical Détérioré :__ Le mobilier médical est en ruine. Des lits sont renversés, des écrans et des moniteurs sont brisés, et les armoires à médicaments sont pillées et vandalisées.
+    2. **Équipement Médical Détérioré :** Le mobilier médical est en ruine. Des lits sont renversés, des écrans et des moniteurs sont brisés, et les armoires à médicaments sont pillées et vandalisées.
 
-    3. __Taches de Sang :__ Il y a des taches de sang séché sur le sol et sur certains murs, indiquant des blessures graves. Des traînées de sang mènent vers des endroits différents, suggérant des scènes de lutte ou de fuite.
+    3. **Taches de Sang :** Il y a des taches de sang séché sur le sol et sur certains murs, indiquant des blessures graves. Des traînées de sang mènent vers des endroits différents, suggérant des scènes de lutte ou de fuite.
 
-    4. __Signes de Panique :__ Les objets personnels du personnel médical et des patients jonchent le sol, laissant penser à une fuite rapide. Des chaises sont renversées, et des traces de pas désordonnées sont visibles.
+    4. **Signes de Panique :** Les objets personnels du personnel médical et des patients jonchent le sol, laissant penser à une fuite rapide. Des chaises sont renversées, et des traces de pas désordonnées sont visibles.
 
-    5. __Dossiers Médicaux Épars :__ Des dossiers médicaux sont éparpillés sur le sol, certains brûlés ou déchirés. Ils contiennent des informations partielles sur les patients, mais beaucoup de données ont été délibérément effacées.
+    5. **Dossiers Médicaux Épars :** Des dossiers médicaux sont éparpillés sur le sol, certains brûlés ou déchirés. Ils contiennent des informations partielles sur les patients, mais beaucoup de données ont été délibérément effacées.
 
-    6. __Vestiges de Barricades :__ Il y a des vestiges de barricades improvisées, composées de meubles et de matériaux médicaux, suggérant que le personnel médical et les patients ont tenté de se protéger ou de bloquer l'accès à l'aile médicale.
+    6. **Vestiges de Barricades :** Il y a des vestiges de barricades improvisées, composées de meubles et de matériaux médicaux, suggérant que le personnel médical et les patients ont tenté de se protéger ou de bloquer l'accès à l'aile médicale.
 
-    7. __Silence Inquiétant :__ Un silence oppressant règne dans l'aile médicale, à l'exception du grincement occasionnel d'une porte ou du gémissement du vent à travers les fissures des murs. L'atmosphère est chargée de tension et de mystère.
+    7. **Silence Inquiétant :** Un silence oppressant règne dans l'aile médicale, à l'exception du grincement occasionnel d'une porte ou du gémissement du vent à travers les fissures des murs. L'atmosphère est chargée de tension et de mystère.
 
     8. La découverte de cette aile médicale ravagée indique clairement que des événements violents se sont produits dans l'abri. Les protagonistes devront enquêter sur ce qui s'est passé ici et décider comment procéder dans cet environnement potentiellement dangereux et instable.
 
