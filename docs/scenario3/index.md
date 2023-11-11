@@ -19,5 +19,4 @@ Largo va retrouver sa famille mais malheureusement infecté par le virus qui s'e
 2. Choix DEUX ?
     Les laisser brancher et s'en aller sans rien faire de plus
 3. Choix TROIS ?
-    Ramener la BDD à la confrérie de l'acier et leur demander leur aide. 
-
+    Ramener la BDD à la confrérie de l'acier et leur demander leur aide.
