@@ -13,4 +13,4 @@ Ils vont devoir faire des jets correspondants à leurs capacités pour savoir si
 
 A ce stade là le paladin est vraiment en manque d'effectif et une vague de mercenaire va tenter d'attaquer les flancs protégés par la confrérie de l'acier.
 L'idée serait de faire intervenir notre troupe dans ce théâtre d'affrontement pour leur faire prendre conscience de la puissance de la confrérie et donc du potentiel à rester en bon terme avec eux voir même à les intégrer.
-Ils vont traverser un véritable champs de bataille pour aller apporter les instructions des paladins sur l'avance du front. Combat de tranché et grosse explosion !
+Ils vont traverser un véritable champ de bataille pour aller apporter les instructions des paladins sur l'avancée du front. Combat de tranché et grosse explosion !
