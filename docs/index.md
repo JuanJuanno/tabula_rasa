@@ -27,3 +27,7 @@ Enfin le projet ICARE:
 Dont vous avez bénéficié de part votre participation à l'achat de nos offres Premium permettra de laisser libre cours à l'esthétisme dont vous rêvez lors de la reconstruction. Ainsi vous marquerez les temps futurs pour une période encore plus étendue. Soyez en fiers !
 
 Toute l'équipe RSP Vault-Tec vous souhaite la bienvenue dans nos programmes et s'engage à vous donner la plus grande satisfaction de nos prestations.
+
+## TODO
+
+Préparer les enregristements pour dire que les ennemies sont en approches avec les messages de menaces ! ça ça va être fun !
