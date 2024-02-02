@@ -25,3 +25,16 @@ Ajout d'un bonus de moral (à voir comment intégrer ça selon les besoins) qui 
 1. Chevalier-Vétéran
 1. Paladin-Commandant
 1. Elder
+
+## Les dés de rencontre aléatoire
+
+Bien sûr, voici une liste de 8 rencontres aléatoires pour votre jeu de rôle :
+
+1. **Rencontre avec des Marchands Ambulants**
+2. **Découverte d'un Abri Abandonné**
+3. **Attaque de Créatures Mutantes**
+4. **Rencontre avec une Faction Rivale**
+5. **Mission de Sauvetage**
+6. **Événement Météorologique Extrême**
+7. **Rencontre avec un Voyageur Solitaire**
+8. **Trouvaille d'un Ancien Laboratoire**
